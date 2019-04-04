@@ -14,7 +14,7 @@ body {
 
 nav {
     display: flex; 
-    background-color: orange;
+    background-color: rgb(231, 214, 182);
     width: 100%;
     justify-content: center;
     padding: .2em;
@@ -39,7 +39,7 @@ nav {
   .flex-container {
       display: flex;
       width: 100%;
-      background-color: antiquewhite;
+      background-color: rgb(226, 203, 172);
       ;
 
   }
